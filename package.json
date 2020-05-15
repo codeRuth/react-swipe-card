@@ -1,5 +1,5 @@
 {
-  "name": "react-swipe-card",
+  "name": "react-swipe-cards",
   "version": "0.1.8",
   "description": "Tinder style swipe cards",
   "repository": {
@@ -18,7 +18,7 @@
     "rilize": "$(npm bin)/release-it --github.releaseName=\"%s (`$(npm bin)/superheroes`)\"",
     "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s"
   },
-  "author": "Alexandre Garrec <garrec.alexandre@gmail.com>",
+  "author": "Ruthvik Vijayakumar <coderuth@outlook.com>",
   "license": "MIT",
   "keywords": [
     "react",
